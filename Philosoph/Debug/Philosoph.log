@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Mati\source\repos\Philosoph\Philosoph\main.cpp(11,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mati\source\repos\Philosoph\Philosoph\main.cpp(12,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mati\source\repos\Philosoph\Philosoph\main.cpp(15,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mati\source\repos\Philosoph\Philosoph\main.cpp(16,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mati\source\repos\Philosoph\Philosoph\main.cpp(19,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mati\source\repos\Philosoph\Philosoph\main.cpp(20,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Philosoph.vcxproj -> C:\Users\Mati\source\repos\Philosoph\Debug\Philosoph.exe
